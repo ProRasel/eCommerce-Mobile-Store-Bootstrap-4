@@ -1,15 +1,7 @@
-/* --- Header section --- */
 .header-section{
      background-image: url(../images/header.jpg);
-     background-size: cover;
      background-repeat: no-repeat;
 }
- span{
-     font-size: 2.5rem;
-     color: #ffc107;
-     font-weight: 500;
-}
-/* --- Brand section --- */
 .card-header{
      text-align: center;
      color: #fff;
@@ -19,14 +11,13 @@
  .bg-gradient2{background: linear-gradient(45deg, #ca3cf8, #00BCD4);}
  .bg-gradient3{background: linear-gradient(45deg, #36a1ff, #16c7dd);}
  .bg-gradient4{background: linear-gradient(45deg, #ff479c, #ffac11);}
-/* --- comming product section --- */
+
  .up-comming-img{
      background-image: url(../images/banner/banner-1.jpg);
-     background-repeat: no-repeat;
      height: 100%;
 }
 .carousel-caption{top: 0;}
-/* --- Banner section --- */
+
  .card-title{
      background-color: #f6f6f6;
      padding: 10px;
@@ -42,4 +33,3 @@
      background-color: #35064c;
      color: #dfdfdf;
 }
-
